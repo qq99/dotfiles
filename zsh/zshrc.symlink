@@ -39,3 +39,6 @@ do
 done
 
 unset config_files
+
+PATH="/opt:$PATH"
+source /usr/share/autojump/autojump.zsh
